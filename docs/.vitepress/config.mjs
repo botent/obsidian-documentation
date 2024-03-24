@@ -50,4 +50,5 @@ export default defineConfig({
   sitemap: {
     hostname: "https://docs.obsidianlaunch.co",
   },
+  cleanUrls: true,
 });
