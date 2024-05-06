@@ -26,6 +26,7 @@ outline: deep
 9. Add 2 event types as 'any' condition like shown for the 1st step
 ![Alt text for screen readers](https://obsidian-production.ams3.cdn.digitaloceanspaces.com/unmess-docs-images/step11.png)
 10. Paste 
+``
 {
 	"messageId": "segment-test-message-exnwfe",
 	"timestamp": "2024-05-06T11:44:22.078Z",
@@ -38,7 +39,8 @@ outline: deep
 	},
 	"userId": "test-user-p4b8mg",
 	"event": "test_event"
-} as a sample event to test later
+}
+`` as a sample event to test later
 ![Alt text for screen readers](https://obsidian-production.ams3.cdn.digitaloceanspaces.com/unmess-docs-images/step12.png)
 11. Get your segment URL from Obsidian app's settings (Settings and Members right side navbar)
 ![Alt text for screen readers](https://obsidian-production.ams3.cdn.digitaloceanspaces.com/unmess-docs-images/ob-settings-segment-url.png)
