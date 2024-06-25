@@ -127,4 +127,4 @@ If you encounter any issues:
 3. Verify that you're passing the correct parameters to the methods.
 4. Review the error messages in your Rails logs for more information.
 
-For any additional help or questions, please contact our support team at support@yourcompany.com.
+For any additional help or questions, please contact our support team at shankha@obsidianlaunch.co
