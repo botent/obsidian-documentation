@@ -36,6 +36,11 @@ export default defineConfig({
         items: [
           { text: "REST API", link: "/guides/rest" },
           { text: "Segment Webhook", link: "/guides/segment" },
+          { text: "Javascript", link: "/guides/languages/javascript" },
+          { text: "Typescript", link: "/guides/languages/typescript" },
+          { text: "Python", link: "/guides/languages/python" },
+          { text: "Ruby on Rails", link: "/guides/languages/rails" },
+          { text: "Golang", link: "/guides/languages/golang" },
         ],
       },
     ],
